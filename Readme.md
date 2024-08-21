@@ -104,8 +104,8 @@ This section provides a detailed explanation of the models used in this project.
 - **Optimizer**: Adam (learning rate: 0.0001)
 - **Loss Function**: Binary Crossentropy
 - **Metrics**: Accuracy
-![CNN_Model](\pics\CNN_Model.png)
-![CNN_Accuracy](\pics\CNN_Accuracy.png)
+![CNN_Model](pics/CNN_Model.png)
+![CNN_Accuracy](pics/CNN_Accuracy.png)
 
 ### Training
 - **Data Augmentation**: Applied during training.
@@ -125,7 +125,7 @@ This section provides a detailed explanation of the models used in this project.
 - **Optimizer**: Adam (learning rate: 0.0001)
 - **Loss Function**: Binary Crossentropy
 - **Metrics**: Accuracy
-![Densenet](\pics\Densenet.png)
+![Densenet](pics/Densenet.png)
 
 
 ### Training
