@@ -112,7 +112,7 @@ This section provides a detailed explanation of the models used in this project.
 - **EarlyStopping**: Stops training if validation accuracy does not improve for 5 epochs.
 - **ModelCheckpoint**: Saves the best model based on validation accuracy.
 
-## DenseNet201 Model
+## DenseNet Model
 
 ### Architecture
 - **Base Model**: DenseNet201 (pre-trained on ImageNet)
