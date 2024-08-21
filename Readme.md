@@ -38,7 +38,8 @@ This project uses a DenseNet model, ResNet50 and FNN to classify images into two
 2. ** Create the python virtual environment**
 3. ** Install the dependencies in the requirements.txt**
    
-   ```pip install -r requirements.txt
+   ```python
+   pip install -r requirements.txt
 
 ## Usage
 
@@ -53,7 +54,7 @@ This project uses a DenseNet model, ResNet50 and FNN to classify images into two
 3. View the prediction
    - After submission, the page will display the predicted class("HP" or "SSA")
 4. Deploy the Application on Elastic Beanstalk
-![Prediction](\pics\Prediction.png)
+   ![alt text](pics/Prediction.png)
 
 
 ## Troubleshooting
